@@ -1,6 +1,7 @@
 ![profile header](https://www.wyzowl.com/wp-content/uploads/2019/07/google-1024x164.png)
 <h1 align="center">Hi 👋, I'm Amey Chaudhari</h1>
 <h3 align="center">A passionate ML enthusiast from India</h3>
+<img align="right" alt="coding" src="https://imgs.search.brave.com/cTWvsKv2Fc7C5UDE5anDrCErBLMupkD9BAQQL3XPTBM/rs:fit:800:600:1/g:ce/aHR0cHM6Ly9jZG4u/ZHJpYmJibGUuY29t/L3VzZXJzLzEwNTk1/ODMvc2NyZWVuc2hv/dHMvNDE3MTM2Ny9j/b2RpbmctZnJlYWsu/Z2lm.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amey-chaudhari&label=Profile%20views&color=0e75b6&style=flat" alt="amey-chaudhari" /> </p>
 
