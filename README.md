@@ -10,7 +10,7 @@
 - 💬 Ask me about **image processing & computer vision related issues**
 
 - ⚡ Fun fact **I think**
-- 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
