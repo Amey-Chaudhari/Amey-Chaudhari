@@ -5,7 +5,7 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amey-chaudhari&label=Profile%20views&color=0e75b6&style=flat" alt="amey-chaudhari" /> </p>
-- 🌱 I’m currently learning about **Haze removal techniques**
+- 🌱 I’m currently learning about **Haze removal technique using dark prior**
 
 - 💬 Ask me about **image processing & computer vision related issues**
 
