@@ -1,27 +1,87 @@
-![profile header](https://miro.medium.com/max/1400/1*NR6JIAMqr5f9mKvZPH6HKg.png)
+<b>
 
-<h1 align="center">Hello 👋, I'm Amey Chaudhari</h1>
-<h3 align="center">A passionate ML enthusiast from India</h3>
-<img align="right" alt="coding" width="400" src="https://imgs.search.brave.com/cTWvsKv2Fc7C5UDE5anDrCErBLMupkD9BAQQL3XPTBM/rs:fit:800:600:1/g:ce/aHR0cHM6Ly9jZG4u/ZHJpYmJibGUuY29t/L3VzZXJzLzEwNTk1/ODMvc2NyZWVuc2hv/dHMvNDE3MTM2Ny9j/b2RpbmctZnJlYWsu/Z2lm.gif">
+<!-- 
+[![Matrix SVG](https://raw.githubusercontent.com/ohidurbappy/uploads/main/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
+
+ <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.
+  </h2> -->
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amey-chaudhari&label=Profile%20views&color=0e75b6&style=flat" alt="amey-chaudhari" /> </p>
-- 🌱 I’m currently learning about **Haze removal technique using dark prior**
+<div align='center'>
 
-- 💬 Ask me about **image processing & computer vision related issues**
 
-- ⚡ Fun fact **I think**
+# 👋 Hello, I'm [Mr.ORB](https://www.ohidur.com)! 🍓 🍫
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+  <!--<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=MD%20Ohidur&fontAlign=75&fontAlignY=40&color=gradient" height="200"/>-->
+ 
+  <h4 align="center">“Talk is cheap. Show me the code.”</h4>
+  <h6 align="center"> ~ Linus Torvalds</h6>
+
+
+[![Ohidur Rahman Bappy - Ask Me Anything](https://img.shields.io/static/v1?label=Discussions&message=Ask%20Me%20Anything&color=green&style=for-the-badge&logo=github&logoColor=white)](https://github.com/ohidurbappy/ohidurbappy/discussions/new?category=ask-me-anything)
+	
+	
+ </div>
+ 
+<!--  <p align="center">
+    <img align="center" alt="visitors" src="https://profile-counter.glitch.me/ohidurbappy/count.svg" />
+</p> -->
+
+<p align="center">
+<a href="https://www.ohidur.com"><img  alt="Ohidur Rahman Bappy's Twitter"  src="https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=wikipedia&logoColor=white&color=black" /></a>&nbsp;
+<a href="https://twitter.com/ohidurbappy"><img  alt="Ohidur Rahman Bappy's Twitter"  src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/ohidurbappy/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="mailto:me+github_readme@ohidur.com?subject=Hi, there"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+<a href="https://www.facebook.com/ohidurbappy/"><img  alt="Ohidur Rahman Bappy's Facebook"  src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 </p>
 
-<h3 align="left">Languages & Tools:</h3>
 <br>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amey-chaudhari&show_icons=true&locale=en&layout=compact" alt="amey-chaudhari" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amey-chaudhari&show_icons=true&locale=en" alt="amey-chaudhari" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amey-chaudhari&" alt="amey-chaudhari" /></p>
+<img align="right" height="270px" alt="GIF" src="https://raw.githubusercontent.com/ohidurbappy/uploads/main/coding-animation.gif" />
+
+ ### I am a Self-taught Programmer; 🤩 &nbsp;
+- 🔭 I’m currently looking at the mars
+- 🌱 I’m currently learning Docker
+- 👯 I’m looking to collaborate on [Awesome Cheatsheet](https://github.com/ohidurbappy/awesome-cheatsheet)
+- 💬 Ask me about anything [here](https://github.com/ohidurbappy/ohidurbappy/issues)
+- 📫 How to reach me: me@ohidur.com <br>
+- 🥅 2022 Goals: Hmm..thinking.!
+- 🧗 I try to: Go beyond and push the boundaries!
+- ⚡ Fun fact: I love working by myself.
+
+<br>
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Raspberry Pi-a8325e?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Arduino-326fa8?style=for-the-badge&logo=arduino&logoColor=white"/>
+<br>
+ 
+ <!--
+<p align="center">
+  <samp>
+  <a href="https://discord.gg/6uvgmNa">
+  <img  alt="Ohidur N Friends Discord Server" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/discord.svg" />
+</a>
+<a href="https://twitter.com/ohidurbappy">
+  <img  alt="Ohidur Rahman Bappy's Twitter" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/ohidurbappy/">
+  <img  alt="Ohidur Rahman Bappy's Linkdein" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/ohidurbappy">
+  <img  alt="Ohidur Rahman Bappy's Github" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/github.svg" />
+</a>
+<a href="https://instagram.com/ohidurbappy/">
+  <img  alt="Ohidur Rahman Bappy's Instagram" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/instagram.svg" />
+</a>
+<a href="https://www.facebook.com/ohidurbappy/">
+  <img  alt="Ohidur Rahman Bappy's Facebook" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/facebook.svg" />
+</a>
+  </samp>
+  
+  <br>
+ </p>
+ -->
