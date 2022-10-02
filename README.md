@@ -1,4 +1,4 @@
-![profile header](https://miro.medium.com/max/1400/1*NR6JIAMqr5f9mKvZPH6HKg.png)
+[![@hacktober_fest_sig's Holopin board](https://holopin.io/api/user/board?user=hacktober_fest_sig)](https://holopin.io/@hacktober_fest_sig)
 
 <h1 align="center">Hello 👋, I'm Amey Chaudhari</h1>
 <h3 align="center">A passionate ML enthusiast from India</h3>
